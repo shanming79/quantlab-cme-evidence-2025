@@ -1,0 +1,27 @@
+2026-07-19 21:13:36,175 INFO inicio de la sonda para 2025-12-31; salida en C:\Users\Haka\Desktop\market_calendar\output_market_calendar\2025-12-31
+2026-07-19 21:13:36,774 INFO captura de red registrada antes de navegar
+2026-07-19 21:13:37,549 INFO navegacion completada con estado 200
+2026-07-19 21:13:37,792 INFO no se detecto un aviso de cookies bloqueante
+2026-07-19 21:13:37,839 INFO componente visible: div.component.react.trading-hours
+2026-07-19 21:13:39,262 INFO componente operativo: sin carga visible y con la pestana 'Full Calendar' utilizable
+2026-07-19 21:13:39,822 INFO vista 'Full Calendar' activa con control de fecha utilizable
+2026-07-19 21:13:40,673 INFO firma de la tabla de Full Calendar capturada antes de actuar sobre el control de fecha
+2026-07-19 21:13:41,580 INFO datepicker visible; se intenta navegar hasta 2025-12-31
+2026-07-19 21:13:44,789 INFO dia 31 seleccionado en el datepicker
+2026-07-19 21:13:44,835 INFO fecha verificada por el valor del control: 'wednesday, 31 dec 2025'
+2026-07-19 21:13:44,835 INFO fecha establecida mediante el datepicker del componente
+2026-07-19 21:13:44,836 INFO fecha 2025-12-31 verificada; se espera la actualizacion de la tabla
+2026-07-19 21:13:45,752 INFO tras seleccionar la fecha: tabla_cambio=True filas_datos=7 estable=True
+2026-07-19 21:13:46,850 INFO control 'Futures' seleccionado
+2026-07-19 21:13:46,922 INFO estado de los controles: Futures=False Options=False
+2026-07-19 21:13:52,420 INFO termino 'MNQ': sin opcion visible que identifique el futuro MNQ
+2026-07-19 21:13:53,265 INFO termino='MNQ' aceptado=True opcion_seleccionada=False tabla_cambio=True filas_datos=2 estable=True
+2026-07-19 21:14:00,153 INFO termino 'Micro E-mini Nasdaq-100': sin opcion visible que identifique el futuro MNQ
+2026-07-19 21:14:01,067 INFO termino='Micro E-mini Nasdaq-100' aceptado=True opcion_seleccionada=False tabla_cambio=True filas_datos=7 estable=True
+2026-07-19 21:14:02,951 INFO filtro limpiado; se conserva la tabla de la fecha seleccionada (filas=7)
+2026-07-19 21:14:16,092 INFO ruta de filtrado: termino='Equities' seleccionado=False tabla_cambio=True filas_datos=0 estable=False
+2026-07-19 21:14:17,881 INFO filtro limpiado; se conserva la tabla de la fecha seleccionada (filas=7)
+2026-07-19 21:14:17,907 INFO HTML guardado en page_after_selection.html
+2026-07-19 21:14:19,067 INFO captura guardada en screenshot_after_selection.png
+2026-07-19 21:14:19,209 INFO network capture: 45 peticiones oficiales, 44 cuerpos guardados
+2026-07-19 21:14:19,383 INFO estado final=CAPTURED date_verified=True termino_aplicado=None respuestas=45 cuerpos=44

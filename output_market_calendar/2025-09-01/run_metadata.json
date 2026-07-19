@@ -1,0 +1,18 @@
+{
+  "started_at_utc": "2026-07-19T19:08:25.744Z",
+  "finished_at_utc": "2026-07-19T19:09:10.274Z",
+  "target_url": "https://www.cmegroup.com/trading-hours.html",
+  "final_url_sanitized": "https://www.cmegroup.com/trading-hours.html#tradeDate=2025-09-01&pageNumber=1",
+  "target_date": "2025-09-01",
+  "date_verified": true,
+  "product_terms_attempted": [
+    "MNQ",
+    "Micro E-mini Nasdaq-100",
+    "Equities"
+  ],
+  "product_term_applied": null,
+  "official_response_count": 48,
+  "saved_body_count": 47,
+  "final_status": "CAPTURED",
+  "failure_reason": null
+}
